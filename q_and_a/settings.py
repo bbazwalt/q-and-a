@@ -27,7 +27,7 @@ SECRET_KEY = ''
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['salty-spire-86991-d7c6f3763829.herokuapp.com','127.0.0.1']
+ALLOWED_HOSTS = ['.vercel.app','now.sh','127.0.0.1','localhost']
 
 
 # Application definition
@@ -82,8 +82,12 @@ WSGI_APPLICATION = 'q_and_a.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': '',
+        'HOST': '',
+        'PORT': '',
+        'USER': '',
+        'PASSWORD': ''
     }
 }
 
