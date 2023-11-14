@@ -1,6 +1,6 @@
 # q-and-a-app
 
-Q & A Web App • Live Link: https://q-and-a.vercel.app/
+Q&A Web App • Live Link: https://q-and-a.vercel.app/
 
 • Tech Stack: Django, Bootstrap, PostgreSQL, Vercel & Railway
 
