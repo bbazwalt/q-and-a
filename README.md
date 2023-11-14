@@ -2,11 +2,11 @@
 
 Q & A Web App • Live Link: https://q-and-a.vercel.app/
 
-• Tech Stack: Django, Bootstrap, PostgreSQL, Vercel, Railway
+• Tech Stack: Django, Bootstrap, PostgreSQL, Vercel & Railway
 
-• Implemented Q & A app features like adding, reading, updating, deleting questions, answers, searching, my Q & A page with Login, Signup & Change Profile Details
+• Implemented Q&A application functionalities such as adding, reading, updating, deleting questions & answers & search functionality along with a personalized My Q&A page. Incorporated secure user management functionalities such as Login, Signup & Profile Details modification
 
-• Deployed app on Heroku. Used External API endpoints like Railway PostgreSQL server
+• Deployed the application on Vercel & integrated external API endpoints such as the Railway PostgreSQL server
 
 
 ## Login Page:
