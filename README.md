@@ -6,7 +6,7 @@ Q&A Web App • Live Link: https://q-and-a.vercel.app/
 
 • Implemented Q&A application functionalities such as adding, reading, updating, deleting questions & answers & search functionality along with a personalized My Q&A page. Deployed the application on Vercel
 
-• Integrated external API endpoints such as the Railway PostgreSQL server & integrated a GCP Dialogflow chatbot using Kommunicate. Incorporated secure user management functionalities such as Login, Signup & Profile Details modification
+• Utilized external API endpoints such as the Railway PostgreSQL server & integrated a GCP Dialogflow chatbot using Kommunicate. Incorporated secure user management functionalities such as Login, Signup & Profile Details modification
 
 
 ## Login Page:
