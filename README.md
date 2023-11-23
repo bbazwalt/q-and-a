@@ -2,11 +2,11 @@
 
 Q&A Web App • Live Link: https://q-and-a.vercel.app/
 
-• Tech Stack: Django, Bootstrap, PostgreSQL, Google Cloud Platform (GCP), Vercel & Railway
+• Tech Stack: Django, Bootstrap, PostgreSQL, Google Cloud Platform (GCP), Vercel & Railway.
 
-• Implemented Q&A application functionalities such as adding, reading, updating, deleting questions & answers & search functionality along with a personalized My Q&A page. Deployed the application on Vercel
+• Implemented Q&A application functionalities such as adding, reading, updating, deleting questions & answers & search functionality along with a personalized My Q&A page. Deployed the application on Vercel.
 
-• Utilized external API endpoints such as the Railway PostgreSQL server & integrated a GCP Dialogflow chatbot using Kommunicate. Incorporated secure user management functionalities such as Login, Signup & Profile Details modification
+• Utilized external API endpoints such as the Railway PostgreSQL server & integrated a GCP Dialogflow chatbot using Kommunicate which can improve user experience, engagement, satisfaction, personalization, retention, support, monetization up to 20%. Incorporated secure user management functionalities such as Login, Signup & Profile Details modification.
 
 
 ## Login Page:
