@@ -1,26 +1,26 @@
-# q-and-a-app
+# q-and-a
 
-Q&A Web App • Live Link: https://q-and-a.vercel.app/
+Q&A Web App
 
-• Tech Stack: Django, Bootstrap, PostgreSQL, Google Cloud Platform (GCP) & Vercel.
+• Tech Stack: Django, Bootstrap & PostgreSQL.
 
-• Implemented Q&A application functionalities such as adding, reading, updating, deleting questions & answers & search functionality along with a personalized My Q&A page. Deployed the application on Vercel.
+• Implemented Q&A app functionalities such as adding, updating, deleting questions & answers with search, my Q&A page, profile updation, login & sign up.
 
-• Utilized external API endpoints such as the integration of GCP Dialogflow chatbot using Kommunicate which can improve user experience, engagement, satisfaction, personalization, retention, support, monetization up to 20%. Incorporated secure user management functionalities such as Login, Signup & Profile Details modification.
+• Utilized external API endpoints such as the integration of GCP Dialogflow chatbot using Kommunicate.
 
 
 ## Login Page:
 
-![Alt text](https://github.com/bbazwalt/q-and-a-app/blob/main/screenshots/login-page.png)
+![Login Page](https://github.com/bbazwalt/q-and-a/blob/main/screenshots/login-page.png)
 
 ## Home Page:
 
-![Alt text](https://github.com/bbazwalt/q-and-a-app/blob/main/screenshots/home-page.png)
+![Home Page](https://github.com/bbazwalt/q-and-a/blob/main/screenshots/home-page.png)
 
 ## Chatbot Conversation:
 
-![Alt text](https://github.com/bbazwalt/q-and-a-app/blob/main/screenshots/chatbot-conversation.png)
+![Chatbot Conversation](https://github.com/bbazwalt/q-and-a/blob/main/screenshots/chatbot-conversation.png)
 
-## My Q & A Page:
+## My Q&A Page:
 
-![Alt text](https://github.com/bbazwalt/q-and-a-app/blob/main/screenshots/my-q-and-a-page.png)
+![My Q&A Page](https://github.com/bbazwalt/q-and-a/blob/main/screenshots/my-q-and-a-page.png)
