@@ -6,8 +6,6 @@ Q&A Web App
 
 • Implemented Q&A app functionalities such as adding, updating, deleting questions & answers with search, my Q&A page, profile updation, login & sign up.
 
-• Utilized external API endpoints such as the integration of GCP Dialogflow chatbot using Kommunicate.
-
 
 ## Login Page:
 
@@ -17,9 +15,9 @@ Q&A Web App
 
 ![Home Page](https://github.com/bbazwalt/q-and-a/blob/main/screenshots/home-page.png)
 
-## Chatbot Conversation:
+## Question Actions:
 
-![Chatbot Conversation](https://github.com/bbazwalt/q-and-a/blob/main/screenshots/chatbot-conversation.png)
+![Question Actions](https://github.com/bbazwalt/q-and-a/blob/main/screenshots/question-actions.png)
 
 ## My Q&A Page:
 
