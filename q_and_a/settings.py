@@ -80,15 +80,12 @@ WSGI_APPLICATION = 'q_and_a.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/4.2/ref/settings/#databases
 
+# Add these at the top of your settings.py
+
 DATABASES = {
-    'default': {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': '',
-        'HOST': '',
-        'PORT': '',
-        'USER': '',
-        'PASSWORD': ''
-    }
+  'default': {
+    'ENGINE': 'django.db.backends.postgresql',
+  }
 }
 
 
