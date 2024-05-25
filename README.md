@@ -2,7 +2,7 @@
 
 Q&A Web App
 
-• Tech Stack: Django, Bootstrap & PostgreSQL.
+• Tech Stack: Django, Bootstrap & MySQL.
 
 • Implemented Q&A app functionalities such as adding, updating, deleting questions & answers with search, my Q&A page, profile updation, login & sign up.
 
